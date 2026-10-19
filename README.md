@@ -1,15 +1,15 @@
-# Hola, soy Abel Pineda Godínez 👋
+# Hola, soy Abel Pineda Godinez
 
 Estudiante de **Ingeniería en Sistemas Computacionales** en la **ESCOM – IPN** (Ciudad de México). Me enfoco en desarrollo **full-stack** con Node.js, Express y PostgreSQL.
 
-## 🛠️ Stack
+## Stack
 
 - **Backend:** Node.js, Express, PostgreSQL
 - **Frontend:** JavaScript, HTML, CSS
 - **Móvil:** Android (Java)
 - **Otros:** Python, Git
 
-## 🚀 Proyectos
+## Proyectos
 
 | Proyecto | Descripción | Demo |
 |---|---|---|
@@ -20,6 +20,6 @@ Estudiante de **Ingeniería en Sistemas Computacionales** en la **ESCOM – IPN*
 | [abv_library](https://github.com/AbelGod27/abv_library) | Frontend de ABV Library (GitHub Pages), conectado a la API de Libreria_va | [Demo](https://abelgod27.github.io/abv_library/) |
 | [Compilador-de-R-a-Python](https://github.com/AbelGod27/Compilador-de-R-a-Python) | Compilador de R a Python en desarrollo (fase léxica lista), hecho en Python | — |
 
-## 📫 Contacto
+## Contacto
 
 - [LinkedIn](https://www.linkedin.com/in/abel-pineda-godinez-a07b10287/)
